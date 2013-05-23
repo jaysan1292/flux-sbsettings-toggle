@@ -1,3 +1,0 @@
-#!/bin/bash
-
-launchctl start org.herf.flux
