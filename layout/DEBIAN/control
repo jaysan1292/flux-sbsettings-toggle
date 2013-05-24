@@ -1,10 +1,10 @@
 Package: com.jaysan1292.fluxtoggle
 Name: f.lux SBSettings Toggle
 Depends: sbsettings, org.herf.flux, grep, adv-cmds
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Toggle f.lux from SBSettings
-Author: Jason Recillo <jason.recillo@jaysan1292.com>
+Author: Jason Recillo <jaysan1292+cydia@gmail.com>
 Section: Addons (SBSettings)
 Tag: purpose::extension
 dev: jaysan1292
