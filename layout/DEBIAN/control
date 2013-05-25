@@ -1,9 +1,9 @@
 Package: com.jaysan1292.fluxtoggle
-Name: f.lux SBSettings Toggle
-Depends: mobilesubstrate, libactivator, org.herf.flux, grep, adv-cmds
+Name: f.lux Toggle
+Depends: mobilesubstrate, org.herf.flux
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Toggle f.lux from SBSettings
+Description: Toggle f.lux with Activator or SBSettings
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
 Author: Jason Recillo <jaysan1292+cydia@gmail.com>
