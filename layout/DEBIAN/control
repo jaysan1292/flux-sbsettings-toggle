@@ -1,10 +1,14 @@
 Package: com.jaysan1292.fluxtoggle
 Name: f.lux SBSettings Toggle
-Depends: libactivator, org.herf.flux, grep, adv-cmds
+Depends: mobilesubstrate, libactivator, org.herf.flux, grep, adv-cmds
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Toggle f.lux from SBSettings
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
 Author: Jason Recillo <jaysan1292+cydia@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (SBSettings)
 Tag: purpose::extension
 dev: jaysan1292
