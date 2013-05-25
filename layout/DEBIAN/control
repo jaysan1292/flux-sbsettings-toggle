@@ -1,6 +1,6 @@
 Package: com.jaysan1292.fluxtoggle
 Name: f.lux SBSettings Toggle
-Depends: sbsettings, org.herf.flux, grep, adv-cmds
+Depends: libactivator, org.herf.flux, grep, adv-cmds
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Toggle f.lux from SBSettings
